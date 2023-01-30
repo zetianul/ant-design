@@ -194,7 +194,7 @@
     "antd-img-crop": "^4.2.8",
     "antd-token-previewer": "^1.1.0-21",
     "array-move": "^4.0.0",
-    "chalk": "^4.0.0",
+    "chalk": "^5.2.0",
     "cheerio": "1.0.0-rc.12",
     "cross-env": "^7.0.0",
     "dekko": "^0.2.1",
